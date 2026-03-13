@@ -1,0 +1,26 @@
+[
+{
+"name": "iPhone 14",
+"category": "Electronics",
+"price": 70000,
+"warranty": "1 year",
+"voltage": "220V"
+},
+{
+"name": "T-Shirt",
+"category": "Clothing",
+"price": 800,
+"size": "L",
+"material": "Cotton"
+},
+{
+"name": "Milk",
+"category": "Groceries",
+"price": 60,
+"expiry_date": "2025-01-01",
+"nutrition": {
+"protein": "3g",
+"fat": "4g"
+}
+}
+]
